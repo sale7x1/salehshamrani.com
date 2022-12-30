@@ -1,0 +1,13 @@
+{
+	"https://salehshamrani.info/": {
+		"backgroundColor": "#5241c4",
+		"custom_html": false,
+		"fade": true,
+		"height": "45",
+		"name": "صالح الشمراني",
+		"position": "absolute",
+		"textColor": "#50f2af",
+		"textSize": "1",
+		"width": "90"
+	}
+}
